@@ -1,0 +1,27 @@
+h2 {
+	color:#003580;
+}
+#wenzi {
+	color: #000033;
+	font-size: 14px;
+}
+a {
+	color: #F00;
+}
+.color1 {
+	color: #1F87CC;
+}
+.color2 {
+	color: #FAA53B;
+}
+.color3 {
+	color: #0D7114;
+}
+.pic1 {
+	width: 100px;
+	height: 160px;
+}
+.pic2 {
+	width: 200px;
+	height: 130px;
+}
